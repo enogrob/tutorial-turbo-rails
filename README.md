@@ -15,7 +15,7 @@ Learn everything you need to about the subject of this `Tutorial` project.
 
 ## Topics
 
-[ ] Chapter 0 
+[x] Chapter 0 
 
 [Turbo Rails tutorial introduction](https://www.hotrails.dev/turbo-rails/turbo-rails-tutorial-introduction)
 
